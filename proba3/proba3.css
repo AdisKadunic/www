@@ -1,0 +1,130 @@
+html *{
+	font-family: 'Fjalla One', sans-serif;
+}
+body{
+	background-color: #f3e3b2;
+}
+#top,.top-brown{
+	margin-top: -80px;
+	margin-left: 20%;
+	height: 300px;
+	transform: rotate(22.5deg);
+}
+#top-logo,.top-mustang{
+	position: absolute;
+	height: 140px;
+	margin-left: 44%;
+	margin-top: -90px;
+	z-index: 1;
+}
+#top-nav-bar,li{
+	font-family: 'Fjalla One', sans-serif;
+	text-decoration: none;
+	display: inline;
+	margin: 7px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	color: #fff;
+}
+#top-nav-bar,li:hover{
+	color: black;
+}
+#top-nav-bar,ul{
+	list-style-type: none;
+    overflow: hidden;
+	background-color: #529993;
+	width: 80%;
+	margin-left: 10%;
+	border-color: black;
+	border-bottom: solid;
+	border-top: solid;
+}
+#vid{
+	background-color: #529993;
+	width: 83.5%;
+	margin-left: 10%;
+	border-color: black;
+	border-bottom: solid;
+	border-top: solid;
+}
+#vid,video{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 80px
+}
+#about{
+	margin-left: 150px;
+}
+#portret,.about-por{
+	height: 200px;
+}
+.text1{
+	margin-left: 50px;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 30px
+}
+.text2{
+	margin-left: 90px;
+	font-family: 'Fjalla One', sans-serif;
+	margin-top: -20px
+}
+.text3{
+	margin-left: 60px;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 40px;
+	margin-top: -10;
+}
+.text4{
+	margin-left: 40px;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 40px;
+	margin-top: -30px
+}
+.column{
+	float: left;
+}
+#about{
+	content: "";
+	display: table;
+}
+.left{
+	width: 25%;
+}
+.right{
+	width: 67%;
+}
+.tex-lor-1{
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 18px;
+	border-color: black;
+	border-bottom: dashed;
+	border-top: dashed;
+}
+.about-us-us{
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 25px;
+}
+.about-us-p{
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 18px;
+}
+#contacts{
+	margin-left: 50%;
+}
+.contacts-top{
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 25px;
+}
+#contacts,#email,#ask,#lname{
+	margin-top: 10px;
+}
+#fname,#email,#lname{
+	height: 25px;
+}
+#ask{
+	width: 572px;
+	height: 107px;
+	margin-left: -200px;
+}
+
